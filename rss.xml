@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[hcdesk.com]]></title>
+        <description><![CDATA[hcdesk.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 17:57:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We specialize in Online Marketing, building websites, and creating software and apps. Give me a ring at (404) 314-9273 and let's talk.</p>]]></description>
+            <link>undefinedwe-specialize-in-online-marketing-building-websites-and-cr/index.html</link>
+            <guid isPermaLink="false">bab8a7f7-dc52-40e8-801c-5cf39e4e66cb</guid>
+            <pubDate>Thu, 17 Mar 2016 17:57:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
